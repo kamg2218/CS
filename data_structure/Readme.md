@@ -2,9 +2,9 @@
 
 ## 목차
 
-- [ ] [배열(Array)과 연결리스트(Linked list)](#배열(Array)과-연결리스트(Linked-list))
+ [배열(Array)과 연결리스트(Linked list)](#배열(Array)과-연결리스트(Linked-list))
 
-- [ ] [스택(Stack)과 큐(Queue)](#스택(Stack)과-큐(Queue))
+ [스택(Stack)과 큐(Queue)](#스택(Stack)과-큐(Queue))
 
 ## 배열(Array)과 연결리스트(Linked list)
 
