@@ -4,7 +4,7 @@
 
 - [ ] [배열(Array)과 연결리스트(Linked list)](#배열array과-연결리스트linked-list)
 
-- [ ] [스택(Stack)과 큐(Queue)](#스택(stack)과-큐(queue))
+- [ ] [스택(Stack)과 큐(Queue)](#스택stack과-큐queue)
 
 ## 배열(Array)과 연결리스트(Linked list)
 
